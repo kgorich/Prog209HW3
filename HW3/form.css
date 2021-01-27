@@ -1,0 +1,15 @@
+
+fieldset {
+background-color:rgb(170, 168, 159);	
+border:1px solid rgb(212, 203, 199);
+margin:30px 0px 40px 2.5%;
+width:70%;
+}
+
+/*  this overides the generic fieldset css setting for this item by id */
+#experience {
+background-color:rgb(130, 156, 177);	
+border:1px solid rgb(0, 167, 233);
+margin:10px 0px 30px 2.5%;
+width:46%;
+}
